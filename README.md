@@ -64,15 +64,18 @@ console.log(cachebuster()); // Called after 10 minutes, outputs another one new 
 Write a JavaScript function which extracts all query strings from URL and push them into a JavaScript object named as 'datalayer' as key values.
 
 Example URL:
-http://www.datalicious.com/?pia.ca=72208039&pie.de=cbartens@datalicious.com&pin.gn=Christian&pin.fn=Bartens&pip.de=&oi.na=&ps.na=&pl.ci=&pl.re=&pl.co=&utm_source=purl&utm_medium=purl&utm_campaign=purl
 
+```html
+http://www.datalicious.com/?pia.ca=72208039&pie.de=cbartens@datalicious.com&pin.gn=Christian&pin.fn=Bartens&pip.de=&oi.na=&ps.na=&pl.ci=&pl.re=&pl.co=&utm_source=purl&utm_medium=purl&utm_campaign=purl
+```
 
 #### Task 6. Data layer Object
 
 Write a JavaScript function which takes 'datalayer' object from task 1 and convert them in image tag as demonstrated below and append as child to 'body' tag.
 
+```html
 <img src="https://example.com/datacollector?pia.ca=72208039&pie.de=cbartens@datalicious.com&pin.gn=Christian&pin.fn=Bartens">
-
+```
 
 #### Task 7. Store and retrieve the data layer
 
