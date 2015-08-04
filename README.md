@@ -1,4 +1,4 @@
-## Senior JS developer competency test
+## Lead Web Analyst Competency Test
 
 #### Task 1. Floats.
 
