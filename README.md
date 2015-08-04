@@ -59,11 +59,42 @@ console.log(cachebuster()); // Called after 10 minutes, outputs another one new 
 
 ```
 
+#### Task 5. Extracts all query strings from URL
+
+Write a JavaScript function which extracts all query strings from URL and push them into a JavaScript object named as 'datalayer' as key values.
+
+Example URL:
+http://www.datalicious.com/?pia.ca=72208039&pie.de=cbartens@datalicious.com&pin.gn=Christian&pin.fn=Bartens&pip.de=&oi.na=&ps.na=&pl.ci=&pl.re=&pl.co=&utm_source=purl&utm_medium=purl&utm_campaign=purl
+
+
+#### Task 6. Data layer Object
+
+Write a JavaScript function which takes 'datalayer' object from task 1 and convert them in image tag as demonstrated below and append as child to 'body' tag.
+
+<img src="https://example.com/datacollector?pia.ca=72208039&pie.de=cbartens@datalicious.com&pin.gn=Christian&pin.fn=Bartens">
+
+
+#### Task 7. Store and retrieve the data layer
+
+Write a JavaScript function to store and retrieve the 'datalayer' object from task-1 HTML5 storage.
+
+
+#### Task 8. Unit tests
+
+Bonus point if you write unit-tests for each of these tasks.
+
+
+#### Task 9. Native JavaScript functions
+
+Can you write down any native JavaScript functions that work in Chrome/Firefox and don't work in Internet Explorer or visa-versa?
+
+
 
 ## Instructions
 
 - Please clone this repo in a new `Bitbucket` (or `GitHub`) private repo.
-- Edit `README.md` file to provide answers on tasks `Tasks 1-4`. 
+- Edit `README.md` file to provide answers on tasks `Tasks 1-9`. 
+- Please use native JavaScript and not jQuery or similar libs
 - Please grant access to your private repo for a GH or BitBucket user `abhishektiwari` so we can review your work. 
 
-We suppose this test require from 2 to 3 hours. Thanks in advance for your time spent on this test! 
+We suppose this test require from 3 to 4 hours. Thanks in advance for your time spent on this test! 
