@@ -64,7 +64,6 @@ console.log(cachebuster()); // Called after 10 minutes, outputs another one new 
 
 - Please clone this repo in a new `Bitbucket` (or `GitHub`) private repo.
 - Edit `README.md` file to provide answers on tasks `Tasks 1-4`. 
-- Implement Angular JS app described in `Task 5` and push changes in your repo.
-- Please grant access to your private repo for a GH or BitBucket user `tyomo4ka` so we can review your work. 
+- Please grant access to your private repo for a GH or BitBucket user `abhishektiwari` so we can review your work. 
 
 We suppose this test require from 2 to 3 hours. Thanks in advance for your time spent on this test! 
