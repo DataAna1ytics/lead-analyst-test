@@ -11,10 +11,8 @@
 
 ```javascript
 console.log(sum(2,3)); // Outputs 5 
-console.log(sum(2)(3)); // Outputs 5
 ``` 
 
-- [ ] Make the function working for any number of arguments.
 
 #### Task 3. Loops.
 
