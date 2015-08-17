@@ -1,5 +1,14 @@
 ## Lead Web Analyst Competency Test
 
+## Instructions
+
+- Please clone this repo in a new `Bitbucket` (or `GitHub`) private repo.
+- Edit `README.md` file to provide answers on tasks `Tasks 1-9`. 
+- Please use native JavaScript and not jQuery or similar libs
+- Please grant access to your private repo for a GH or BitBucket user `abhishektiwari` so we can review your work. 
+
+We suppose this test require from 3 to 4 hours. Thanks in advance for your time spent on this test! 
+
 #### Task 1. Floats.
 
 - [ ] Please explain why this code `console.log(0.1 + 0.2 == 0.3);` outputs `false` in console? 
@@ -80,22 +89,10 @@ Write a JavaScript function which takes 'datalayer' object from task 1 and conve
 Write a JavaScript function to store and retrieve the 'datalayer' object from task-1 HTML5 storage.
 
 
-#### Task 8. Unit tests
-
-Bonus point if you write unit-tests for each of these tasks.
-
-
-#### Task 9. Native JavaScript functions
+#### Task 8. Native JavaScript functions
 
 Can you write down any native JavaScript functions that work in Chrome/Firefox and don't work in Internet Explorer or visa-versa?
 
 
 
-## Instructions
 
-- Please clone this repo in a new `Bitbucket` (or `GitHub`) private repo.
-- Edit `README.md` file to provide answers on tasks `Tasks 1-9`. 
-- Please use native JavaScript and not jQuery or similar libs
-- Please grant access to your private repo for a GH or BitBucket user `abhishektiwari` so we can review your work. 
-
-We suppose this test require from 3 to 4 hours. Thanks in advance for your time spent on this test! 
