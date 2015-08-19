@@ -51,7 +51,7 @@ http://www.datalicious.com/?pia.ca=72208039&pie.de=cbartens@datalicious.com&pin.
 
 #### Task 5. Data layer Object
 
-Write a JavaScript function which takes 'datalayer' object from task 1 and convert them in image tag as demonstrated below and append as child to 'body' tag.
+Write a JavaScript function which takes 'datalayer' object from task 4 and convert them in image tag as demonstrated below and append as child to 'body' tag.
 
 ```html
 <img src="https://example.com/datacollector?pia.ca=72208039&pie.de=cbartens@datalicious.com&pin.gn=Christian&pin.fn=Bartens">
@@ -59,7 +59,7 @@ Write a JavaScript function which takes 'datalayer' object from task 1 and conve
 
 #### Task 6. Store and retrieve the data layer
 
-Write a JavaScript function to store and retrieve the 'datalayer' object from task-1 HTML5 storage.
+Write a JavaScript function to store and retrieve the 'datalayer' object from task-4 HTML5 storage.
 
 
 #### Task 7. Native JavaScript functions
