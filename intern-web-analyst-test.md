@@ -4,7 +4,7 @@
 
 - Please use native JavaScript and not jQuery or similar libs
 - Please send us the test results in a text file
-- Bonus points if you use Github or Bitbucket to version control you test results
+- Bonus points if you use Github or Bitbucket to version control and host your test results
 
 We suppose this test require from 6 to 8 hours. Thanks in advance for your time spent on this test! 
 
