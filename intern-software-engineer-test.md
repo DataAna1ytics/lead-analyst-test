@@ -8,7 +8,7 @@ Please check the Flickr API documentation from the following URL:
 
 ## Instruction
 
-- Write the application in Flask/Django. [Flask]((http://flask.pocoo.org/) and [Django](https://www.djangoproject.com/) are Python based web frameworks. We recommend the Flask but you can use the Django if you prefer that way.
+- Write the application in Flask/Django. [Flask](http://flask.pocoo.org/) and [Django](https://www.djangoproject.com/) are Python based web frameworks. We recommend the Flask but you can use the Django if you prefer that way.
 - On page load the applications should load the public feed images in either a list or grid view. You can use the [Twitter Bootstrap](http://getbootstrap.com/) to make your application look good. 
 - The user should be able to enter a keyword in a search box and click on a search button and the app should return images with the relevant tags.
 - Use any other third party library of your choice if needed - [jQuery](https://jquery.com/) or a [Python package](https://pypi.python.org/pypi).
